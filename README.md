@@ -10,8 +10,7 @@ This project illustrates the concept of error correction using Qiskit in Python 
 - Simulate and correct bit-flip errors using CNOT and Toffoli gates.
 - Explore the Bloch sphere representation of quantum states.
 
-I have included two python files, one with Streamlit code and the other with simple bit flip function code which can be used to generate ouptut in terminal itself. 
-- ErrorCorrection.py
+I have included the python file, with Streamlit code with simple bit flip function code:
 - ErrorCorrectionUI.py
 
 Feel free to contribute, provide feedback, or enhance this project. Your contributions are valued as we navigate the quantum landscape together.
